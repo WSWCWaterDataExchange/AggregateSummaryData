@@ -1,0 +1,479 @@
+ORGANIZATION_ID,REPORT_UNIT_ID,REPORTING_UNIT_NAME,LEVEL_2_REPORTING_UNIT_NAME,LEVEL_2_REPORTING_UNIT_ID,LEVEL_3_REPORTING_UNIT_NAME,LEVEL_3_REPORTING_UNIT_ID
+CA-DWR,DAU00125,DAU00125,Upper Klamath,101,North Coast,1
+CA-DWR,DAU00147,DAU00147,Upper Klamath,101,North Coast,1
+CA-DWR,DAU00247,DAU00247,Upper Klamath,101,North Coast,1
+CA-DWR,DAU00347,DAU00347,Upper Klamath,101,North Coast,1
+CA-DWR,DAU00447,DAU00447,Upper Klamath,101,North Coast,1
+CA-DWR,DAU00712,DAU00712,Lower Klamath,102,North Coast,1
+CA-DWR,DAU00753,DAU00753,Lower Klamath,102,North Coast,1
+CA-DWR,DAU01008,DAU01008,Lower Klamath,102,North Coast,1
+CA-DWR,DAU01012,DAU01012,Lower Klamath,102,North Coast,1
+CA-DWR,DAU01047,DAU01047,Lower Klamath,102,North Coast,1
+CA-DWR,DAU01408,DAU01408,Lower Klamath,102,North Coast,1
+CA-DWR,DAU01723,DAU01723,Coastal,103,North Coast,1
+CA-DWR,DAU01823,DAU01823,Coastal,103,North Coast,1
+CA-DWR,DAU01923,DAU01923,Coastal,103,North Coast,1
+CA-DWR,DAU01949,DAU01949,Coastal,103,North Coast,1
+CA-DWR,DAU02012,DAU02012,Coastal,103,North Coast,1
+CA-DWR,DAU02112,DAU02112,Coastal,103,North Coast,1
+CA-DWR,DAU02153,DAU02153,Coastal,103,North Coast,1
+CA-DWR,DAU02312,DAU02312,Coastal,103,North Coast,1
+CA-DWR,DAU02323,DAU02323,Coastal,103,North Coast,1
+CA-DWR,DAU02511,DAU02511,Coastal,103,North Coast,1
+CA-DWR,DAU02512,DAU02512,Coastal,103,North Coast,1
+CA-DWR,DAU02517,DAU02517,Coastal,103,North Coast,1
+CA-DWR,DAU02523,DAU02523,Coastal,103,North Coast,1
+CA-DWR,DAU02553,DAU02553,Coastal,103,North Coast,1
+CA-DWR,DAU02712,DAU02712,Coastal,103,North Coast,1
+CA-DWR,DAU02723,DAU02723,Coastal,103,North Coast,1
+CA-DWR,DAU02812,DAU02812,Coastal,103,North Coast,1
+CA-DWR,DAU03012,DAU03012,Coastal,103,North Coast,1
+CA-DWR,DAU03053,DAU03053,Coastal,103,North Coast,1
+CA-DWR,DAU03212,DAU03212,Coastal,103,North Coast,1
+CA-DWR,DAU03549,DAU03549,Russian River,104,North Coast,1
+CA-DWR,DAU03649,DAU03649,Russian River,104,North Coast,1
+CA-DWR,DAU03721,DAU03721,Russian River,104,North Coast,1
+CA-DWR,DAU03749,DAU03749,Russian River,104,North Coast,1
+CA-DWR,DAU03821,DAU03821,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU03849,DAU03849,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU04028,DAU04028,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU04048,DAU04048,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU04128,DAU04128,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU04148,DAU04148,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU04241,DAU04241,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04244,DAU04244,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04338,DAU04338,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04341,DAU04341,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04443,DAU04443,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04501,DAU04501,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04507,DAU04507,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04543,DAU04543,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04607,DAU04607,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04701,DAU04701,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04707,DAU04707,South Bay,202,San Francisco Bay,2
+CA-DWR,DAU04827,DAU04827,Northern,301,Central Coast,3
+CA-DWR,DAU04927,DAU04927,Northern,301,Central Coast,3
+CA-DWR,DAU05027,DAU05027,Northern,301,Central Coast,3
+CA-DWR,DAU05127,DAU05127,Northern,301,Central Coast,3
+CA-DWR,DAU05227,DAU05227,Northern,301,Central Coast,3
+CA-DWR,DAU05327,DAU05327,Northern,301,Central Coast,3
+CA-DWR,DAU05427,DAU05427,Northern,301,Central Coast,3
+CA-DWR,DAU05435,DAU05435,Northern,301,Central Coast,3
+CA-DWR,DAU05527,DAU05527,Northern,301,Central Coast,3
+CA-DWR,DAU05627,DAU05627,Northern,301,Central Coast,3
+CA-DWR,DAU05727,DAU05727,Northern,301,Central Coast,3
+CA-DWR,DAU05827,DAU05827,Northern,301,Central Coast,3
+CA-DWR,DAU05835,DAU05835,Northern,301,Central Coast,3
+CA-DWR,DAU05927,DAU05927,Northern,301,Central Coast,3
+CA-DWR,DAU05935,DAU05935,Northern,301,Central Coast,3
+CA-DWR,DAU05944,DAU05944,Northern,301,Central Coast,3
+CA-DWR,DAU06041,DAU06041,Northern,301,Central Coast,3
+CA-DWR,DAU06044,DAU06044,Northern,301,Central Coast,3
+CA-DWR,DAU06135,DAU06135,Northern,301,Central Coast,3
+CA-DWR,DAU06143,DAU06143,Northern,301,Central Coast,3
+CA-DWR,DAU06235,DAU06235,Northern,301,Central Coast,3
+CA-DWR,DAU06243,DAU06243,Northern,301,Central Coast,3
+CA-DWR,DAU06335,DAU06335,Northern,301,Central Coast,3
+CA-DWR,DAU06343,DAU06343,Northern,301,Central Coast,3
+CA-DWR,DAU06435,DAU06435,Northern,301,Central Coast,3
+CA-DWR,DAU06540,DAU06540,Southern,302,Central Coast,3
+CA-DWR,DAU06640,DAU06640,Southern,302,Central Coast,3
+CA-DWR,DAU06740,DAU06740,Southern,302,Central Coast,3
+CA-DWR,DAU06840,DAU06840,Southern,302,Central Coast,3
+CA-DWR,DAU06940,DAU06940,Southern,302,Central Coast,3
+CA-DWR,DAU07040,DAU07040,Southern,302,Central Coast,3
+CA-DWR,DAU07142,DAU07142,Southern,302,Central Coast,3
+CA-DWR,DAU07240,DAU07240,Southern,302,Central Coast,3
+CA-DWR,DAU07342,DAU07342,Southern,302,Central Coast,3
+CA-DWR,DAU07442,DAU07442,Southern,302,Central Coast,3
+CA-DWR,DAU07542,DAU07542,Southern,302,Central Coast,3
+CA-DWR,DAU07556,DAU07556,Southern,302,Central Coast,3
+CA-DWR,DAU07642,DAU07642,Southern,302,Central Coast,3
+CA-DWR,DAU07656,DAU07656,Southern,302,Central Coast,3
+CA-DWR,DAU08142,DAU08142,Santa Clara,401,South Coast,4
+CA-DWR,DAU08156,DAU08156,Santa Clara,401,South Coast,4
+CA-DWR,DAU08319,DAU08319,Santa Clara,401,South Coast,4
+CA-DWR,DAU08719,DAU08719,Metropolitan LA,402,South Coast,4
+CA-DWR,DAU08919,DAU08919,Metropolitan LA,402,South Coast,4
+CA-DWR,DAU09019,DAU09019,Metropolitan LA,402,South Coast,4
+CA-DWR,DAU09219,DAU09219,Metropolitan LA,402,South Coast,4
+CA-DWR,DAU09236,DAU09236,Metropolitan LA,402,South Coast,4
+CA-DWR,DAU09619,DAU09619,Santa Ana,403,South Coast,4
+CA-DWR,DAU09630,DAU09630,Santa Ana,403,South Coast,4
+CA-DWR,DAU09633,DAU09633,Santa Ana,403,South Coast,4
+CA-DWR,DAU09636,DAU09636,Santa Ana,403,South Coast,4
+CA-DWR,DAU09830,DAU09830,Santa Ana,403,South Coast,4
+CA-DWR,DAU09833,DAU09833,Santa Ana,403,South Coast,4
+CA-DWR,DAU10033,DAU10033,Santa Ana,403,South Coast,4
+CA-DWR,DAU10036,DAU10036,Santa Ana,403,South Coast,4
+CA-DWR,DAU10430,DAU10430,Santa Ana,403,South Coast,4
+CA-DWR,DAU10433,DAU10433,Santa Ana,403,South Coast,4
+CA-DWR,DAU11033,DAU11033,San Diego,404,South Coast,4
+CA-DWR,DAU11430,DAU11430,San Diego,404,South Coast,4
+CA-DWR,DAU11433,DAU11433,San Diego,404,South Coast,4
+CA-DWR,DAU12037,DAU12037,San Diego,404,South Coast,4
+CA-DWR,DAU13018,DAU13018,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13025,DAU13025,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13218,DAU13218,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13225,DAU13225,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13418,DAU13418,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13425,DAU13425,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13445,DAU13445,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13447,DAU13447,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13645,DAU13645,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13647,DAU13647,Shasta - Pit,501,Sacramento River,5
+CA-DWR,DAU13745,DAU13745,Upper Northwest Valley,502,Sacramento River,5
+CA-DWR,DAU13752,DAU13752,Upper Northwest Valley,502,Sacramento River,5
+CA-DWR,DAU13906,DAU13906,Upper Northwest Valley,502,Sacramento River,5
+CA-DWR,DAU13911,DAU13911,Upper Northwest Valley,502,Sacramento River,5
+CA-DWR,DAU13952,DAU13952,Upper Northwest Valley,502,Sacramento River,5
+CA-DWR,DAU14145,DAU14145,Lower Northwest Valley,503,Sacramento River,5
+CA-DWR,DAU14152,DAU14152,Lower Northwest Valley,503,Sacramento River,5
+CA-DWR,DAU14211,DAU14211,Lower Northwest Valley,503,Sacramento River,5
+CA-DWR,DAU14252,DAU14252,Lower Northwest Valley,503,Sacramento River,5
+CA-DWR,DAU14345,DAU14345,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14352,DAU14352,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14404,DAU14404,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14452,DAU14452,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14545,DAU14545,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14552,DAU14552,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14704,DAU14704,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU14752,DAU14752,Northeast Valley,504,Sacramento River,5
+CA-DWR,DAU15404,DAU15404,Southeast,508,Sacramento River,5
+CA-DWR,DAU15418,DAU15418,Southeast,508,Sacramento River,5
+CA-DWR,DAU15432,DAU15432,Southeast,508,Sacramento River,5
+CA-DWR,DAU15446,DAU15446,Southeast,508,Sacramento River,5
+CA-DWR,DAU15629,DAU15629,Southeast,508,Sacramento River,5
+CA-DWR,DAU15631,DAU15631,Southeast,508,Sacramento River,5
+CA-DWR,DAU15632,DAU15632,Southeast,508,Sacramento River,5
+CA-DWR,DAU15646,DAU15646,Southeast,508,Sacramento River,5
+CA-DWR,DAU15658,DAU15658,Southeast,508,Sacramento River,5
+CA-DWR,DAU15802,DAU15802,Southeast,508,Sacramento River,5
+CA-DWR,DAU15803,DAU15803,Southeast,508,Sacramento River,5
+CA-DWR,DAU15809,DAU15809,Southeast,508,Sacramento River,5
+CA-DWR,DAU15829,DAU15829,Southeast,508,Sacramento River,5
+CA-DWR,DAU15831,DAU15831,Southeast,508,Sacramento River,5
+CA-DWR,DAU15834,DAU15834,Southeast,508,Sacramento River,5
+CA-DWR,DAU15904,DAU15904,Southeast,508,Sacramento River,5
+CA-DWR,DAU16029,DAU16029,Southeast,508,Sacramento River,5
+CA-DWR,DAU16058,DAU16058,Southeast,508,Sacramento River,5
+CA-DWR,DAU16131,DAU16131,Southeast,508,Sacramento River,5
+CA-DWR,DAU16257,DAU16257,Central Basin West,509,Sacramento River,5
+CA-DWR,DAU16306,DAU16306,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16311,DAU16311,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16357,DAU16357,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16406,DAU16406,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16411,DAU16411,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16451,DAU16451,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16457,DAU16457,Colusa Basin,506,Sacramento River,5
+CA-DWR,DAU16551,DAU16551,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16604,DAU16604,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16611,DAU16611,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16651,DAU16651,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16704,DAU16704,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16706,DAU16706,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16711,DAU16711,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16804,DAU16804,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU16851,DAU16851,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU17004,DAU17004,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU17151,DAU17151,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU17158,DAU17158,Butte - Sutter - Yuba,507,Sacramento River,5
+CA-DWR,DAU17209,DAU17209,Central Basin East,511,Sacramento River,5
+CA-DWR,DAU17234,DAU17234,Central Basin East,511,Sacramento River,5
+CA-DWR,DAU17251,DAU17251,Central Basin East,511,Sacramento River,5
+CA-DWR,DAU17258,DAU17258,Central Basin East,511,Sacramento River,5
+CA-DWR,DAU17334,DAU17334,Central Basin East,511,Sacramento River,5
+CA-DWR,DAU17406,DAU17406,Southwest,505,Sacramento River,5
+CA-DWR,DAU17417,DAU17417,Southwest,505,Sacramento River,5
+CA-DWR,DAU17457,DAU17457,Southwest,505,Sacramento River,5
+CA-DWR,DAU17517,DAU17517,Southwest,505,Sacramento River,5
+CA-DWR,DAU17528,DAU17528,Southwest,505,Sacramento River,5
+CA-DWR,DAU17548,DAU17548,Southwest,505,Sacramento River,5
+CA-DWR,DAU17602,DAU17602,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU17603,DAU17603,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU17605,DAU17605,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU17609,DAU17609,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU17634,DAU17634,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU18034,DAU18034,Eastern Valley Floor,603,San Joaquin River,6
+CA-DWR,DAU18103,DAU18103,Eastern Valley Floor,603,San Joaquin River,6
+CA-DWR,DAU18105,DAU18105,Eastern Valley Floor,603,San Joaquin River,6
+CA-DWR,DAU18239,DAU18239,Eastern Valley Floor,603,San Joaquin River,6
+CA-DWR,DAU18450,DAU18450,Eastern Valley Floor,603,San Joaquin River,6
+CA-DWR,DAU18501,DAU18501,San Joaquin Delta,602,San Joaquin River,6
+CA-DWR,DAU18507,DAU18507,San Joaquin Delta,602,San Joaquin River,6
+CA-DWR,DAU18539,DAU18539,San Joaquin Delta,602,San Joaquin River,6
+CA-DWR,DAU18634,DAU18634,Sacramento Delta,510,Sacramento River,5
+CA-DWR,DAU18648,DAU18648,Sacramento Delta,510,Sacramento River,5
+CA-DWR,DAU18657,DAU18657,Sacramento Delta,510,Sacramento River,5
+CA-DWR,DAU19148,DAU19148,Central Basin West,509,Sacramento River,5
+CA-DWR,DAU19157,DAU19157,Central Basin West,509,Sacramento River,5
+CA-DWR,DAU19201,DAU19201,Upper West Side Uplands,601,San Joaquin River,6
+CA-DWR,DAU19207,DAU19207,Upper West Side Uplands,601,San Joaquin River,6
+CA-DWR,DAU19239,DAU19239,Upper West Side Uplands,601,San Joaquin River,6
+CA-DWR,DAU19402,DAU19402,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19405,DAU19405,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19455,DAU19455,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19555,DAU19555,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19605,DAU19605,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19624,DAU19624,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19650,DAU19650,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19655,DAU19655,Sierra Foothills,604,San Joaquin River,6
+CA-DWR,DAU19720,DAU19720,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19722,DAU19722,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19822,DAU19822,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19824,DAU19824,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19850,DAU19850,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19920,DAU19920,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU19922,DAU19922,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20020,DAU20020,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20022,DAU20022,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20120,DAU20120,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20122,DAU20122,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20222,DAU20222,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20224,DAU20224,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20320,DAU20320,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20410,DAU20410,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20420,DAU20420,East Side Uplands,610,San Joaquin River,6
+CA-DWR,DAU20539,DAU20539,Upper Valley East Side,607,San Joaquin River,6
+CA-DWR,DAU20639,DAU20639,Upper Valley East Side,607,San Joaquin River,6
+CA-DWR,DAU20650,DAU20650,Upper Valley East Side,607,San Joaquin River,6
+CA-DWR,DAU20750,DAU20750,Upper Valley East Side,607,San Joaquin River,6
+CA-DWR,DAU20824,DAU20824,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU20850,DAU20850,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU20924,DAU20924,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU20950,DAU20950,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21024,DAU21024,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21122,DAU21122,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21124,DAU21124,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21224,DAU21224,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21320,DAU21320,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21420,DAU21420,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21520,DAU21520,Lower Valley East Side,609,San Joaquin River,6
+CA-DWR,DAU21610,DAU21610,Valley West Side,606,San Joaquin River,6
+CA-DWR,DAU21624,DAU21624,Valley West Side,606,San Joaquin River,6
+CA-DWR,DAU21635,DAU21635,Valley West Side,606,San Joaquin River,6
+CA-DWR,DAU21639,DAU21639,Valley West Side,606,San Joaquin River,6
+CA-DWR,DAU21650,DAU21650,Valley West Side,606,San Joaquin River,6
+CA-DWR,DAU21739,DAU21739,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU21750,DAU21750,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU21824,DAU21824,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU21850,DAU21850,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU21924,DAU21924,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU21950,DAU21950,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU22010,DAU22010,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU22024,DAU22024,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU22035,DAU22035,Sierra Foothills,605,San Joaquin River,6
+CA-DWR,DAU22110,DAU22110,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22210,DAU22210,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22254,DAU22254,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22310,DAU22310,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22354,DAU22354,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22454,DAU22454,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22554,DAU22554,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22654,DAU22654,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22715,DAU22715,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22754,DAU22754,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22815,DAU22815,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22854,DAU22854,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22915,DAU22915,Uplands,707,Tulare Lake,7
+CA-DWR,DAU22954,DAU22954,Uplands,707,Tulare Lake,7
+CA-DWR,DAU23015,DAU23015,Uplands,707,Tulare Lake,7
+CA-DWR,DAU23115,DAU23115,Uplands,707,Tulare Lake,7
+CA-DWR,DAU23215,DAU23215,Uplands,707,Tulare Lake,7
+CA-DWR,DAU23310,DAU23310,Fresno - Academy,704,Tulare Lake,7
+CA-DWR,DAU23410,DAU23410,Fresno - Academy,704,Tulare Lake,7
+CA-DWR,DAU23510,DAU23510,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU23610,DAU23610,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU23616,DAU23616,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU23654,DAU23654,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU23710,DAU23710,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU23716,DAU23716,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU23816,DAU23816,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU23910,DAU23910,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU23916,DAU23916,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU23954,DAU23954,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU24010,DAU24010,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU24054,DAU24054,Alta - Orange Cove,705,Tulare Lake,7
+CA-DWR,DAU24116,DAU24116,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU24154,DAU24154,Lower Kings-Tulare,703,Tulare Lake,7
+CA-DWR,DAU24216,DAU24216,Kaweah Delta,706,Tulare Lake,7
+CA-DWR,DAU24254,DAU24254,Kaweah Delta,706,Tulare Lake,7
+CA-DWR,DAU24354,DAU24354,Kaweah Delta,706,Tulare Lake,7
+CA-DWR,DAU24410,DAU24410,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24416,DAU24416,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24510,DAU24510,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24515,DAU24515,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24516,DAU24516,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24616,DAU24616,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24710,DAU24710,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24715,DAU24715,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24716,DAU24716,San Luis West Side,702,Tulare Lake,7
+CA-DWR,DAU24810,DAU24810,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU24835,DAU24835,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU24910,DAU24910,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU24935,DAU24935,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25010,DAU25010,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25110,DAU25110,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25115,DAU25115,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25116,DAU25116,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25215,DAU25215,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25240,DAU25240,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25256,DAU25256,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25315,DAU25315,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25316,DAU25316,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25340,DAU25340,Western Uplands,701,Tulare Lake,7
+CA-DWR,DAU25415,DAU25415,Kern Delta,710,Tulare Lake,7
+CA-DWR,DAU25515,DAU25515,Semitropic - Buena Vista,708,Tulare Lake,7
+CA-DWR,DAU25615,DAU25615,Kern Valley Floor,709,Tulare Lake,7
+CA-DWR,DAU25715,DAU25715,Kern Valley Floor,709,Tulare Lake,7
+CA-DWR,DAU25754,DAU25754,Kern Valley Floor,709,Tulare Lake,7
+CA-DWR,DAU25815,DAU25815,Kern Delta,710,Tulare Lake,7
+CA-DWR,DAU25915,DAU25915,Semitropic - Buena Vista,708,Tulare Lake,7
+CA-DWR,DAU26015,DAU26015,Semitropic - Buena Vista,708,Tulare Lake,7
+CA-DWR,DAU26115,DAU26115,Kern Delta,710,Tulare Lake,7
+CA-DWR,DAU26218,DAU26218,Lassen,801,North Lahontan,8
+CA-DWR,DAU26225,DAU26225,Lassen,801,North Lahontan,8
+CA-DWR,DAU26318,DAU26318,Lassen,801,North Lahontan,8
+CA-DWR,DAU26418,DAU26418,Lassen,801,North Lahontan,8
+CA-DWR,DAU26518,DAU26518,Lassen,801,North Lahontan,8
+CA-DWR,DAU26546,DAU26546,Lassen,801,North Lahontan,8
+CA-DWR,DAU26618,DAU26618,Lassen,801,North Lahontan,8
+CA-DWR,DAU26802,DAU26802,Alpine,802,North Lahontan,8
+CA-DWR,DAU26809,DAU26809,Alpine,802,North Lahontan,8
+CA-DWR,DAU26829,DAU26829,Alpine,802,North Lahontan,8
+CA-DWR,DAU26831,DAU26831,Alpine,802,North Lahontan,8
+CA-DWR,DAU26846,DAU26846,Alpine,802,North Lahontan,8
+CA-DWR,DAU27002,DAU27002,Alpine,802,North Lahontan,8
+CA-DWR,DAU27026,DAU27026,Alpine,802,North Lahontan,8
+CA-DWR,DAU27426,DAU27426,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27526,DAU27526,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27626,DAU27626,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27714,DAU27714,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27726,DAU27726,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27814,DAU27814,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU27914,DAU27914,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU28014,DAU28014,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU28026,DAU28026,Mono-Owens,901,South Lahontan,9
+CA-DWR,DAU28114,DAU28114,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28126,DAU28126,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28214,DAU28214,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28314,DAU28314,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28414,DAU28414,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28514,DAU28514,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28536,DAU28536,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28636,DAU28636,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28714,DAU28714,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28814,DAU28814,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28836,DAU28836,Death Valley,903,South Lahontan,9
+CA-DWR,DAU28914,DAU28914,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29014,DAU29014,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29036,DAU29036,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29136,DAU29136,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29214,DAU29214,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29236,DAU29236,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29336,DAU29336,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29436,DAU29436,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29536,DAU29536,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29636,DAU29636,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29736,DAU29736,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29814,DAU29814,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29836,DAU29836,Death Valley,903,South Lahontan,9
+CA-DWR,DAU29914,DAU29914,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU29915,DAU29915,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU29936,DAU29936,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30015,DAU30015,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30036,DAU30036,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30114,DAU30114,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30214,DAU30214,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30314,DAU30314,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30315,DAU30315,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30336,DAU30336,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30415,DAU30415,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30436,DAU30436,Indian Wells,902,South Lahontan,9
+CA-DWR,DAU30515,DAU30515,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30519,DAU30519,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30615,DAU30615,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30619,DAU30619,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30636,DAU30636,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30719,DAU30719,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30736,DAU30736,Antelope Valley,904,South Lahontan,9
+CA-DWR,DAU30819,DAU30819,Mojave River,905,South Lahontan,9
+CA-DWR,DAU30836,DAU30836,Mojave River,905,South Lahontan,9
+CA-DWR,DAU30936,DAU30936,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31036,DAU31036,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31136,DAU31136,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31236,DAU31236,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31336,DAU31336,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31436,DAU31436,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31536,DAU31536,Death Valley,903,South Lahontan,9
+CA-DWR,DAU31636,DAU31636,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31736,DAU31736,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31836,DAU31836,Mojave River,905,South Lahontan,9
+CA-DWR,DAU31936,DAU31936,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32036,DAU32036,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32136,DAU32136,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32236,DAU32236,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32336,DAU32336,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32436,DAU32436,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32536,DAU32536,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32633,DAU32633,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32636,DAU32636,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32733,DAU32733,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32736,DAU32736,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32836,DAU32836,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU32936,DAU32936,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33036,DAU33036,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33133,DAU33133,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33136,DAU33136,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33233,DAU33233,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33236,DAU33236,Twenty-Nine Palms - Lanfair,1001,Colorado River,10
+CA-DWR,DAU33333,DAU33333,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33336,DAU33336,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33413,DAU33413,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33433,DAU33433,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33533,DAU33533,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33633,DAU33633,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33733,DAU33733,Chuckwalla,1003,Colorado River,10
+CA-DWR,DAU33833,DAU33833,Coachella,1002,Colorado River,10
+CA-DWR,DAU33936,DAU33936,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34036,DAU34036,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34136,DAU34136,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34233,DAU34233,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34333,DAU34333,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34336,DAU34336,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34433,DAU34433,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34513,DAU34513,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34533,DAU34533,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34613,DAU34613,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34633,DAU34633,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34713,DAU34713,Colorado River,1004,Colorado River,10
+CA-DWR,DAU34813,DAU34813,Coachella,1002,Colorado River,10
+CA-DWR,DAU34833,DAU34833,Coachella,1002,Colorado River,10
+CA-DWR,DAU34836,DAU34836,Coachella,1002,Colorado River,10
+CA-DWR,DAU34837,DAU34837,Coachella,1002,Colorado River,10
+CA-DWR,DAU34913,DAU34913,Coachella,1002,Colorado River,10
+CA-DWR,DAU34933,DAU34933,Coachella,1002,Colorado River,10
+CA-DWR,DAU35033,DAU35033,Borrego,1005,Colorado River,10
+CA-DWR,DAU35037,DAU35037,Borrego,1005,Colorado River,10
+CA-DWR,DAU35113,DAU35113,Borrego,1005,Colorado River,10
+CA-DWR,DAU35137,DAU35137,Borrego,1005,Colorado River,10
+CA-DWR,DAU35213,DAU35213,Borrego,1005,Colorado River,10
+CA-DWR,DAU35233,DAU35233,Borrego,1005,Colorado River,10
+CA-DWR,DAU35237,DAU35237,Borrego,1005,Colorado River,10
+CA-DWR,DAU35313,DAU35313,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35333,DAU35333,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35413,DAU35413,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35437,DAU35437,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35513,DAU35513,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35613,DAU35613,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35713,DAU35713,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU35733,DAU35733,Imperial Valley,1006,Colorado River,10
+CA-DWR,DAU39149,DAU39149,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU39221,DAU39221,North Bay,201,San Francisco Bay,2
+CA-DWR,DAU40123,DAU40123,Russian River,104,North Coast,1
+CA-DWR,DAU40223,DAU40223,Russian River,104,North Coast,1
+CA-DWR,DAU40323,DAU40323,Russian River,104,North Coast,1
+CA-DWR,DAU40423,DAU40423,Russian River,104,North Coast,1
+CA-DWR,DAU40449,DAU40449,Russian River,104,North Coast,1
+CA-DWR,DAU40523,DAU40523,Russian River,104,North Coast,1
+CA-DWR,DAU40549,DAU40549,Russian River,104,North Coast,1
